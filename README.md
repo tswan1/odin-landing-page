@@ -1,1 +1,1 @@
-# odin-landing-page
+A basic HTML and CSS project
