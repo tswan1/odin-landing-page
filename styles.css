@@ -33,7 +33,7 @@ button, .blue-container {
     background-color: #3882F6;
 }
 
-.heading.white-container {
+.white-container .heading {
     font-size: 36px;
     color: #1F2937;
     font-weight: 900;
