@@ -22,3 +22,8 @@ h2.navyblue-container.container1 {
     color: #F9FAF8;
     font-weight: 900;
 }
+
+p.navyblue-container.container1 {
+    font-size: 18px;
+    color: #E5E7EB;
+}
