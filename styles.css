@@ -27,3 +27,8 @@ p.navyblue-container.container1 {
     font-size: 18px;
     color: #E5E7EB;
 }
+
+button, .blue-container {
+    background-color: #3882F6;
+}
+
