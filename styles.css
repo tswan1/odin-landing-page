@@ -17,7 +17,7 @@ header, .logo {
     display: flex;
 }
 
-h2.navyblue-container.container1 {
+.heading.navyblue-container.container1 {
     font-size: 48px;
     color: #F9FAF8;
     font-weight: 900;
@@ -32,7 +32,7 @@ button, .blue-container {
     background-color: #3882F6;
 }
 
-h2.white-container {
+.heading.white-container {
     font-size: 36px;
     color: #1F2937;
     font-weight: 900;
