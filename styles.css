@@ -16,3 +16,9 @@ header, .logo {
 .navyblue-container {
     display: flex;
 }
+
+h2.navyblue-container.container1 {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
