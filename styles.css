@@ -1,3 +1,9 @@
 * {
     font-family: "Roboto", serif, sans-serif;
 }
+
+header, 
+.navyblue-container, 
+footer {
+    background-color: #1F2937;
+}
