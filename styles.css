@@ -24,7 +24,7 @@ header,
     font-weight: 900;
 }
 
-p.navyblue-container.container1 {
+.navyblue-container .container1 p {
     font-size: 18px;
     color: #E5E7EB;
 }
