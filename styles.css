@@ -32,3 +32,8 @@ button, .blue-container {
     background-color: #3882F6;
 }
 
+h2.white-container {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
