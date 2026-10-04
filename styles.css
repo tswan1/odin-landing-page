@@ -8,7 +8,8 @@ footer {
     background-color: #1F2937;
 }
 
-header, .logo {
+header, 
+.logo {
     font-size: 24px;
     color: #F9FAF8;
 }
@@ -17,7 +18,7 @@ header, .logo {
     display: flex;
 }
 
-.heading.navyblue-container.container1 {
+.navyblue-container .container1 .heading {
     font-size: 48px;
     color: #F9FAF8;
     font-weight: 900;
