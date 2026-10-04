@@ -31,6 +31,8 @@ header,
 
 button, .blue-container {
     background-color: #3882F6;
+    color: #F9FAF8;
+    font-size: 18px;
 }
 
 .white-container .heading {
@@ -53,5 +55,9 @@ button, .blue-container {
 .grey-container p {
     font-size: 18px;
     color: #1F2937;
+    font-weight: 900;
+}
+
+.blue-container .heading {
     font-weight: 900;
 }
