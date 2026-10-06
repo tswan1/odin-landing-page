@@ -95,3 +95,9 @@ button {
     border-radius: 6px;
     border-color: white;
 }
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
