@@ -79,6 +79,7 @@ button, .blue-container {
     font-size: 18px;
     color: #1F2937;
     font-weight: 900;
+    justify-self: end;
 }
 
 .blue-container .heading {
