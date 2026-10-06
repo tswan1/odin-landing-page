@@ -79,3 +79,8 @@ button, .blue-container {
 .blue-container .heading {
     font-weight: 900;
 }
+
+button {
+    border-radius: 6px;
+    border-color: white;
+}
