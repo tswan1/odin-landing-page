@@ -29,6 +29,7 @@ header .link {
 
 .navyblue-container {
     display: flex;
+    padding: 5%;
 }
 
 .navyblue-container .container1,
