@@ -53,6 +53,10 @@ button, .blue-container {
     font-size: 18px;
 }
 
+.white-container {
+    background-color: white;
+}
+
 .white-container .heading {
     font-size: 36px;
     color: #1F2937;
