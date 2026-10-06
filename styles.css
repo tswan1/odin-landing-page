@@ -15,10 +15,25 @@ header, footer {
 header .logo {
     font-size: 24px;
     color: #F9FAF8;
+    flex: auto;
+}
+
+header {
+    display: flex;
+}
+
+header .link {
+    flex: 1;
+    justify-content: flex-end;
 }
 
 .navyblue-container {
     display: flex;
+}
+
+.navyblue-container .container1,
+.navyblue-container .container2 {
+    flex: 1;
 }
 
 .navyblue-container .container1 .heading {
