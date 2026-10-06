@@ -61,6 +61,7 @@ button, .blue-container {
     font-size: 36px;
     color: #1F2937;
     font-weight: 900;
+    justify-self: center;
 }
 
 .grey-container {
