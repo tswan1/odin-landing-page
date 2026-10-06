@@ -80,7 +80,7 @@ button, .blue-container {
 
 .grey-container {
     background-color: #E5E7EB;
-    padding: 1%;
+    padding: 1% 5% 1% 5%;
 }
 
 .grey-container blockquote {
@@ -99,6 +99,7 @@ button, .blue-container {
 
 .blue-container {
     padding: 2%;
+    padding: 1% 5% 1% 5%;
 }
 
 .blue-container .heading {
